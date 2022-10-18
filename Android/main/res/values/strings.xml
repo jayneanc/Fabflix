@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fabflix Mobile</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="red">#CC0000</color>
+    <color name="blue">#0080FF</color>
+    <color name="green">#80FF00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#efe4b0</color>
+
+    <string name="title_activity_blue"> The Blue Page </string>
+    <string name="title_activity_green"> Fabflix | Main </string>
+</resources>
